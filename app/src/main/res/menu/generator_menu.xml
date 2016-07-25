@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/generator_contextmenu_setindex" android:title="Go to index..."></item>
+    <item android:id="@+id/generator_contextmenu_showcode" android:title="Show activation code"></item>
+    <item android:id="@+id/generator_contextmenu_setpin" android:title="Change PIN code..."></item>
+</menu>
