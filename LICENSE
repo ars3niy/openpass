@@ -1,6 +1,9 @@
 Copyright (c) 2016, Arseniy Lartsev
+Copyright (c) 2016 https://github.com/datr
 Copyright (c) whoever makes icons for Oxygen icon theme
 All rights reserved.
+
+Based on Python reimplementation https://github.com/datr/MobilePASSER
 
 All image files are subject to the copyright by whoever made the Oxygen
 icon theme and to separate use and redistribution terms set by that project.
