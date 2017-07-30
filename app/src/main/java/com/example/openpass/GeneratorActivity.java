@@ -89,13 +89,13 @@ public class GeneratorActivity extends AppCompatActivity {
 		switch (item.getItemId()) {
 			case R.id.generator_contextmenu_setindex:
 				onSetIndex(null);
-				break;
+				return true;
 			case R.id.generator_contextmenu_setpin:
 				onSetPin();
-				break;
+				return true;
 			case R.id.generator_contextmenu_showcode:
 				onShowCode();
-				break;
+				return true;
 		}
 		return super.onOptionsItemSelected(item);
 	}
